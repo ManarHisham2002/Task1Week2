@@ -98,6 +98,10 @@ img {
 /* ------------  End Components  ---------- */
 
 /* ------------  Start Header  ---------- */
+nav img {
+    width: auto;
+}
+
 nav li {
     font-size: 22px;
 }
