@@ -47,11 +47,6 @@ input:focus {
 /* ------------  End Global Rules  ---------- */
 
 /* ------------  Start Components  ---------- */
-h1 {
-    color: #1F1F1F;
-    font-size: 100px !important;
-}
-
 h2 {
     color: #1F1F1F;
     font-size: 50px !important;
@@ -123,6 +118,11 @@ nav .show button {
 /* ------------  Start Hero Section  ---------- */
 .hero {
     margin: 100px 0 0 0;
+}
+
+.hero h1 {
+    color: #1F1F1F;
+    font-size: 100px;
 }
 
 .hero ul {
