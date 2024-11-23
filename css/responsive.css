@@ -1,0 +1,544 @@
+@media (max-width: 575.98px) {
+    h2 {
+        font-size: 40px !important;
+    }
+
+    /* ------------  Start Hero Section  ---------- */
+    .hero {
+        margin-top: 45px;
+    }
+
+    .hero h1 {
+        font-weight: 750;
+        font-size: 49px;
+    }
+
+    .hero ul li {
+        margin-right: 26px;
+    }
+
+    .hero ul li h2 {
+        font-size: 38px !important;
+    }
+
+    .hero ul li span {
+        font-size: 11px;
+    }
+
+    .hero img {
+        height: 250px;
+    }
+
+    .hero .box {
+        left: 0px;
+    }
+
+    .hero .img-bottom {
+        width: 88% !important;
+        margin-left: 0px;
+        height: auto;
+    }
+
+    /* ------------  End Hero Section  ---------- */
+    /* ------------  Start Services Section  ---------- */
+
+    .services h3 {
+        font-size: 28px;
+    }
+
+    /* ------------  End Services Section  ---------- */
+    /* ------------  Start brilliance Section  ---------- */
+
+    .brilliance ul li {
+        font-size: 20px;
+    }
+
+    .brilliance button {
+        font-size: 20px !important;
+    }
+
+    /* ------------  End brilliance Section  ---------- */
+    /* ------------  Start Steps Section  ---------- */
+    .steps .icon i {
+        width: 50px;
+        height: 50px;
+        font-size: 20px;
+    }
+
+    .steps .icon .h-line {
+        height: 120px;
+    }
+
+    .steps h3 {
+        font-size: 30px;
+    }
+
+    /* ------------  End Steps Section  ---------- */
+    /* ------------  Start Customer Section  ---------- */
+    .customer img {
+        width: 100%;
+        height: auto;
+    }
+
+    .customer .next-prev {
+        width: 30%;
+        margin-top: 15px;
+        margin-bottom: 20px;
+    }
+
+
+    .customer .feedback {
+        position: relative;
+        right: 0;
+        padding: 30px 0 0 10px;
+    }
+
+    .customer .feedback .say {
+        margin-right: 0;
+        width: 350px;
+        margin-bottom: 20px;
+    }
+
+    .customer .feedback .say i {
+        font-size: 30px;
+    }
+
+    .customer .feedback .say .say-words {
+        height: 200px;
+    }
+
+    /* ------------  End Customer Section  ---------- */
+    /* ------------  Start News Section  ---------- */
+    .news {
+        margin-top: 80px;
+        height: 450px;
+    }
+
+    .news .news-content {
+        width: 100%;
+        height: 450px;
+    }
+
+    .news .news-content p {
+        margin: 40px 0;
+        padding: 0;
+    }
+
+    .news .news-content .subscribe-bar .input-filed i {
+        font-size: 20px;
+    }
+
+    .news .news-content .subscribe-bar .input-filed input {
+        width: 130px;
+    }
+
+    .news .news-content .subscribe-bar .input-filed input::placeholder {
+        font-size: 18px;
+    }
+
+    .news .news-content .subscribe-bar button {
+        font-size: 18px !important;
+    }
+
+    /* ------------  End News Section  ---------- */
+    /* ------------  Start Footer  ---------- */
+    footer {
+        background-color: #1F1F1F;
+        padding: 100px 0 20px 0;
+    }
+
+    footer ul li {
+        font-size: 18px;
+    }
+
+    /* ------------  End Footer  ---------- */
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    h2 {
+        font-size: 40px !important;
+    }
+
+    h3 {
+        font-size: 44px;
+    }
+
+    p {
+        font-size: 25px !important;
+    }
+
+    /* ------------  Start Hero Section  ---------- */
+    .hero {
+        margin-top: 45px;
+    }
+
+    .hero h1 {
+        font-size: 78px;
+    }
+
+    .hero ul li {
+        margin-right: 60px;
+    }
+
+    .hero ul li h2 {
+        font-size: 40px !important;
+    }
+
+    .hero ul li span {
+        font-size: 12px;
+    }
+
+    .hero .box {
+        left: 0px;
+    }
+
+    .hero .img-bottom {
+        width: 88% !important;
+        margin-left: 0;
+    }
+
+    /* ------------  End Hero Section  ---------- */
+    /* ------------  Start Services Section  ---------- */
+    .services img {
+        width: 90px;
+        height: 88px;
+    }
+
+    /* ------------  End Services Section  ---------- */
+    /* ------------  Start brilliance Section  ---------- */
+
+    .brilliance ul li {
+        font-size: 24px;
+    }
+
+    /* ------------  End brilliance Section  ---------- */
+    /* ------------  Start Steps Section  ---------- */
+    .steps .icon i {
+        width: 50px;
+        height: 50px;
+        font-size: 20px;
+    }
+
+    .steps .icon .h-line {
+        height: 90px;
+    }
+
+    .steps img {
+        width: 100%;
+        height: 600px;
+    }
+
+    /* ------------  End Steps Section  ---------- */
+    /* ------------  Start Customer Section  ---------- */
+    .customer .next-prev {
+        width: 25%;
+        margin-top: 15px;
+        margin-bottom: 20px;
+    }
+
+    .customer span i {
+        width: 55px;
+        height: 55px;
+        font-size: 20px;
+    }
+
+    .customer .feedback {
+        position: relative;
+        right: 0;
+    }
+
+    .customer .feedback .say {
+        width: 450px;
+        margin-bottom: 20px;
+    }
+
+    .customer .feedback .say i {
+        font-size: 40px;
+    }
+
+    /* ------------  End Customer Section  ---------- */
+    /* ------------  Start News Section  ---------- */
+    .news {
+        margin-top: 100px;
+        height: 400px;
+    }
+
+    .news .container {
+        position: relative;
+        height: 400px;
+    }
+
+    .news .news-content {
+        width: 100%;
+    }
+
+    .news .news-content .subscribe-bar .input-filed input {
+        width: 300px;
+        background-color: transparent;
+    }
+
+    .news .news-content .subscribe-bar button {
+        font-size: 20px !important;
+    }
+
+    /* ------------  End News Section  ---------- */
+    /* ------------  Start Footer  ---------- */
+    footer {
+        background-color: #1F1F1F;
+        padding: 100px 0 20px 0;
+    }
+
+    footer h2 {
+        font-size: 22px !important;
+        color: #FFFFFF !important;
+    }
+
+    footer p {
+        font-size: 20px !important;
+        color: #D1D1D1 !important;
+        margin: 35px 0;
+    }
+
+    footer ul li {
+        color: #D1D1D1;
+        font-size: 20px;
+    }
+
+    /* ------------  End Footer  ---------- */
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* ------------  Start Hero Section  ---------- */
+    .hero ul li {
+        margin-right: 90px;
+    }
+
+    .hero ul li span {
+        font-size: 14px;
+    }
+
+    .hero img {
+        height: 350px;
+    }
+
+    .hero .box {
+        left: 0px;
+    }
+
+    .hero .img-bottom {
+        width: 90% !important;
+        margin-left: 0px;
+        height: auto;
+    }
+
+    /* ------------  End Hero Section  ---------- */
+    /* ------------  Start Services Section  ---------- */
+    .services img {
+        width: 90px;
+        height: 88px;
+    }
+
+    /* ------------  End Services Section  ---------- */
+    /* ------------  Start brilliance Section  ---------- */
+    .brilliance img {
+        height: 100%;
+    }
+
+    .brilliance ul li {
+        font-size: 15px;
+    }
+
+    .brilliance button {
+        font-size: 16px !important;
+    }
+
+    /* ------------  End brilliance Section  ---------- */
+    /* ------------  Start Steps Section  ---------- */
+    .steps img {
+        height: 600px;
+    }
+
+    /* ------------  End Steps Section  ---------- */
+    /* ------------  Start Customer Section  ---------- */
+
+    .customer .next-prev {
+        margin-bottom: 20px;
+    }
+
+    .customer span i {
+        width: 50px;
+        height: 50px;
+        font-size: 20px;
+    }
+
+    .customer .feedback {
+        position: relative;
+        right: 0;
+        padding: 30px 20px 0 40px;
+    }
+
+    .customer .feedback .say {
+        margin-right: 0;
+        width: 650px;
+        margin-bottom: 20px;
+    }
+
+    .customer .feedback .say .say-words {
+        font-size: 25px !important;
+    }
+
+    /* ------------  End Customer Section  ---------- */
+    /* ------------  Start News Section  ---------- */
+    .news {
+        margin-top: 90px;
+    }
+
+    /* ------------  End News Section  ---------- */
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    p {
+        font-size: 18px !important;
+    }
+
+    /* ------------  Start Hero Section  ---------- */
+    .hero h1 {
+        font-size: 93px;
+    }
+
+    .hero p {
+        width: 90%;
+    }
+
+    .hero ul li h2 {
+        font-size: 42px !important;
+    }
+
+    .hero ul li span {
+        font-size: 14px;
+    }
+
+    .hero .box {
+        left: -45px;
+    }
+
+    .hero .img-bottom {
+        width: 90% !important;
+    }
+
+    .hero .arrow {
+        font-size: 16px;
+        width: 40px;
+        height: 40px;
+        right: 28px;
+    }
+
+    /* ------------  End Hero Section  ---------- */
+    /* ------------  Start Services Section  ---------- */
+    .services h3 {
+        font-size: 28px !important;
+    }
+
+    /* ------------  End Services Section  ---------- */
+    /* ------------  Start brilliance Section  ---------- */
+
+    .brilliance ul li {
+        font-size: 18px;
+    }
+
+    /* ------------  End brilliance Section  ---------- */
+    /* ------------  Start Steps Section  ---------- */
+
+    .steps .icon .h-line {
+        height: 45px;
+    }
+
+    .steps img {
+        height: 600px;
+    }
+
+    /* ------------  End Steps Section  ---------- */
+    /* ------------  Start Customer Section  ---------- */
+    .customer .next-prev {
+        margin: 15px 0 50px 0;
+    }
+
+    .customer span i {
+        color: #464646;
+        background-color: #F1F1F1;
+        width: 50px;
+        height: 50px;
+        font-size: 20px;
+    }
+
+    .customer .feedback {
+        position: relative;
+        right: 0%;
+    }
+
+    /* ------------  End Customer Section  ---------- */
+}
+
+@media (min-width: 1400px) {
+
+    /* ------------  Start Hero Section  ---------- */
+    .hero ul {
+        padding: 46px 0;
+    }
+
+    .hero ul li {
+        margin-right: 125px;
+    }
+
+    .hero ul li h2 {
+        font-size: 67px !important;
+    }
+
+    .hero ul li span {
+        font-size: 17px;
+    }
+
+    .hero .box {
+        top: 21px;
+        left: -96px;
+    }
+
+    .hero .img-bottom {
+        margin-left: -130px;
+    }
+
+    .hero .arrow {
+        right: 28px;
+    }
+
+    /* ------------  End Hero Section  ---------- */
+    /* ------------  Start Services Section  ---------- */
+    .services img {
+        width: 75px;
+        height: 73px;
+    }
+
+    .services h3 {
+        font-size: 35px;
+    }
+
+    .services p {
+        font-size: 20px !important;
+    }
+
+    /* ------------  End Services Section  ---------- */
+    /* ------------  Start brilliance Section  ---------- */
+    .brilliance ul li {
+        font-size: 20px;
+    }
+
+    /* ------------  End brilliance Section  ---------- */
+    /* ------------  Start Customer Section  ---------- */
+    .customer span i {
+        width: 55px;
+        height: 55px;
+        font-size: 25px;
+    }
+
+    /* ------------  End Customer Section  ---------- */
+}
